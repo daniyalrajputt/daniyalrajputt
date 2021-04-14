@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, I'm Rao Daniyal
 ![Twitter Follow](https://img.shields.io/twitter/follow/daniyalDotdev?style=social)
 
